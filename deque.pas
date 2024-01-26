@@ -1,4 +1,4 @@
-program deque;
+program deque;`
 
 type
 	itemptr = ^item;
